@@ -3,13 +3,13 @@
     "name": "Wenzhao Liang",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://liangwz25.github.io",
+    "summary": "SYSU",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Guangzhou",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "A University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in Hydrogeology",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
