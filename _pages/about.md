@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 <img src='/images/logo.jpg' style='width: 600px; height: auto;'>  
-<center>Welcome to NEXUS LAB<center>  
+Welcome to NEXUS LAB
                    
-<center>a Niche for EXploring groUndwater and Surface-water interaction<center>
+### a Niche for EXploring groUndwater and Surface-water interaction
 
 
 
