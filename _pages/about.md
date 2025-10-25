@@ -29,7 +29,7 @@ redirect_from:
 
 ### Publications  
 -------------------------------------------------------------------------------------------------------  
-
+#### Before 2020
 * Liu, Y., Jiao, J. J., Liang, W., & Kuang, X. (2017). Hydrogeochemical characteristics in coastal groundwater mixing zone. Applied Geochemistry, 85, 49-60.
 'https://doi.org/10.1016/j.apgeochem.2017.09.002'
 
