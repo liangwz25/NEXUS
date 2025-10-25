@@ -18,7 +18,7 @@ redirect_from:
   
 
 ### Main interest
-1) Hydrodynamics and biogeochemical cycling in surface water-groundwater interactions at different scales (small: intertidal zone/benthic sediment interface, large: deltaic/continental pathway).  
+1) Hydrodynamics and biogeochemical cycling in surface water-groundwater interactions at different scales.  
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction and informing environmental/sustainable policymaking.  
 3) Nanotechnology on water quality monitoring.
 
