@@ -1,10 +1,9 @@
 ---
-title: "Hydrogeochemical characteristics in coastal groundwater mixing zone"
+title: "[1] Hydrogeochemical characteristics in coastal groundwater mixing zone"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017/10/1
+date: 2017-10-1
 venue: 'Applied Geochemistry'
 paperurl: 'https://doi.org/10.1016/j.apgeochem.2017.09.002'
 citation: 'Liu, Y., Jiao, J. J., Liang, W., & Kuang, X. (2017). Hydrogeochemical characteristics in coastal groundwater mixing zone. Applied Geochemistry, 85, 49-60.'
