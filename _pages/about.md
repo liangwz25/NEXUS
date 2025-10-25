@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 **---------------------- Welcome To NEXUS LAB @ SYSU ----------------------**  
-**a Niche for EXploring groUndwater and Surface-water interaction**  
+a **N**iche for **EX**ploring gro**U**ndwater and **S**urface-water interaction 
 
   
 ### About ME  
