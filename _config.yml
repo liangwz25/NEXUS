@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh_CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "NEXUS LAB"
+title                    : "<img src='/images/logo.jpg'>"
 title_separator          : "-"
 name                     : &name "Wenzhao LIANG"
 description              : &description "NEXUS LAB HOMEPAGE"   # Update this with a general description of your site, this is the default if not overridden by a page
