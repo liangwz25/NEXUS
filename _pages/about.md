@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**------- Welcome To NEXUS LAB @ SYSU -------**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**------- Welcome To NEXUS LAB @ SYSU -------**  
 **a Niche for EXploring groUndwater and Surface-water interaction**  
 
   
