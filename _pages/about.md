@@ -8,8 +8,6 @@ redirect_from:
 ---
 excerpt: "<img src='/publications/1-AG-2017.jpg' style='width: 200px; height: auto;'>"
 
-This is Dr. Wenzhao LIANG's home on the web!
-
 About NEXUS LAB
 ======
 a Niche for EXploring groUndwater and Surface-water interaction
