@@ -10,6 +10,11 @@ redirect_from:
 
 This is Dr. Wenzhao LIANG's home on the web!
 
+About NEXUS LAB
+======
+a Niche for EXploring groUndwater and Surface-water interaction
+
+
 Main interest
 ======
 1) Hydrodynamics and biogeochemical cycling in surface water-groundwater interactions at different scales (small: intertidal zone/benthic sediment interface, large: deltaic/continental pathway).
