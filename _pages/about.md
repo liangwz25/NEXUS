@@ -7,10 +7,14 @@ redirect_from:
 ---
 <img src='/images/logo.jpg' style='width: 600px; height: auto;'>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **a Niche for EXploring groUndwater and Surface-water interaction**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **a Niche for EXploring groUndwater and Surface-water interaction**  
+
+  
+## About ME  
 
 
 
+  
 
 ### Main interest
 1) Hydrodynamics and biogeochemical cycling in surface water-groundwater interactions at different scales (small: intertidal zone/benthic sediment interface, large: deltaic/continental pathway).  
