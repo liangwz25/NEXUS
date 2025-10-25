@@ -1,13 +1,12 @@
 ---
 permalink: /
-excerpt: "<img src='/publications/1-AG-2017.jpg' style='width: 200px; height: auto;'>"
 title: "Welcome to NEXUS LAB"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+excerpt: "<img src='/publications/1-AG-2017.jpg' style='width: 200px; height: auto;'>"
 
 This is Dr. Wenzhao LIANG's home on the web!
 
