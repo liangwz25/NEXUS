@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-excerpt: "<img src='/publications/1-AG-2017.jpg' style='width: 200px; height: auto;'>"
+<img src='/images/logo.jpg' style='width: 600px; height: auto;'>
 
-About NEXUS LAB
-======
 a Niche for EXploring groUndwater and Surface-water interaction
+==
+
 
 
 Main interest
