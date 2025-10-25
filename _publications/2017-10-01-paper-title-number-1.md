@@ -2,7 +2,7 @@
 title: "[1] Hydrogeochemical characteristics in coastal groundwater mixing zone"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-10-01-paper-title-number-1
 date: 2017-10-1
 venue: 'Applied Geochemistry'
 paperurl: 'https://doi.org/10.1016/j.apgeochem.2017.09.002'
