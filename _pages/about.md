@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "----------Welcome to NEXUS LAB--------------"
+title: "---------Welcome to NEXUS LAB---------"
 author_profile: true
 redirect_from: 
   - /about/
