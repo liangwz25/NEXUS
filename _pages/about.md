@@ -10,24 +10,28 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a **N**iche for **EX**ploring gro**U**ndwater and **S**urface-water interaction 
 
   
-### Biography  
-
+### Biography   
+-------------------------------------------------------------------------------------------------------
   
 
 
   
 
-### Main interest
+### Main interest  
+-------------------------------------------------------------------------------------------------------
 1) Hydrodynamics and biogeochemical cycling in surface water-groundwater interactions at different scales.  
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction and informing environmental/sustainable policymaking.  
 3) Nanotechnology on water quality monitoring.
 
-### News
+### News  
+-------------------------------------------------------------------------------------------------------
 
 
-### Publications
+### Publications  
+-------------------------------------------------------------------------------------------------------
 
 
 
-### Students
+### Students  
+-------------------------------------------------------------------------------------------------------
 
