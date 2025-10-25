@@ -51,4 +51,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Water Research/Geophysical Research Letters/Journal of Hydrology/Environemtnal Pollution/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science of the totalenvironment/JGR-Oceans/JRG-Biogeosciences/Scientific Reports
