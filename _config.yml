@@ -23,7 +23,7 @@ repository               : "liangwz25.github.io/NEXUS"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile pic.jpg"
+  avatar           : "Profile-pic.jpg"
   name             : "Dr. Wenzhao LIANG"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Hydrogeology"
