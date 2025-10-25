@@ -17,29 +17,16 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Trent University (2025)
+  * School of Environment
+  * Postdoctoral Fellow
+  * Supervisor: Prof. Andrew J. Tanentzap
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* Hong Kong University of Science and Technology (2022-2025) 
+  * Department of Ocean Science (OCES)
+  * Postdoctoral Fellow
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
