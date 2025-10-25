@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://liangwz25.github.io/NEXUS/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://liangwz25.github.io/NEXUS/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://liangwz25.github.io/NEXUS/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://liangwz25.github.io/NEXUS/portfolio/
         
   #- title: "Blog Posts"
-  #  url: /year-archive/
+  #  url: https://liangwz25.github.io/NEXUS/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://liangwz25.github.io/NEXUS/cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://liangwz25.github.io/NEXUS/markdown/
