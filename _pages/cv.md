@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D in Hydrogeology and Ecology, The University of Hong Kong, 2022  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jiu Jimmy JIAO
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jiu Jimmy JIAO
 * M.S. in Remote Sensing (Oceanography), University of Chinese Academey of Science, 2016  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Danling TANG
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Danling TANG
 * B.S. in Environmental Science, Sun-Yat Sen University, 2013  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor : Prof. Yisheng PENG & Prof. Jiatang HU (Final Year Project) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor : Prof. Yisheng PENG & Prof. Jiatang HU (Final Year Project) 
   
 Work experience
 ======
