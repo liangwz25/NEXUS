@@ -3,7 +3,7 @@ title: "1.Hydrogeochemical characteristics in coastal groundwater mixing zone"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-10-01-paper-title-number-1
-date: 2017-10-1
+date: 2017-10-01
 venue: 'Applied Geochemistry'
 excerpt: 'Coastal groundwater mixing zone; Seawater-freshwater interface; Cation exchange; Geochemical reactions; Sulfate reduction'
 paperurl: 'https://doi.org/10.1016/j.apgeochem.2017.09.002'
