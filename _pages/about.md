@@ -7,7 +7,7 @@ redirect_from:
 ---
 <img src='/images/logo.jpg' style='width: 600px; height: auto;'>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **a Niche for EXploring groUndwater and Surface-water interaction**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **a Niche for EXploring groUndwater and Surface-water interaction**
 
 
 
