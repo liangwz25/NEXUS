@@ -12,9 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Hydrogeology and Ecology, The University of Hong Kong, 2022
+          Supervisor: Prof. Jiu Jimmy JIAO
 * M.S. in Remote Sensing (Oceanography), University of Chinese Academey of Science, 2016
+          Supervisor: Prof. Danling TANG
 * B.S. in Environmental Science, Sun-Yat Sen University, 2013
-
+          Supervisor (Final Year Project): Prof. Jiatang HU & Prof. Yisheng PENG
+  
 Work experience
 ======
 * Trent University (2025)
@@ -25,7 +28,7 @@ Work experience
 * Hong Kong University of Science and Technology (2022-2025) 
   * Department of Ocean Science (OCES)
   * Postdoctoral Fellow
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Ding HE
 
 
 Publications
