@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2017-10-01-paper-title-number-1
 date: 2017-10-01
 venue: 'Applied Geochemistry'
-image: /publications/1-AG-2017.jpg
+image: /publication/1-AG-2017.jpg
 excerpt: 'Coastal groundwater mixing zone; Seawater-freshwater interface; Cation exchange; Geochemical reactions; Sulfate reduction'
 paperurl: 'https://doi.org/10.1016/j.apgeochem.2017.09.002'
 citation: 'Liu, Y., Jiao, J. J., Liang, W., & Kuang, X. (2017). Hydrogeochemical characteristics in coastal groundwater mixing zone. Applied Geochemistry, 85, 49-60.'
